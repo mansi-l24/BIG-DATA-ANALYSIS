@@ -13,6 +13,7 @@ DURATION : 4 WEEKS
 MENTOR : Neela Santhosh
 
 **description**
+
 Imagine you have a super-huge spreadsheet (like millions of rows!) that's too big for regular tools to handle easily. This Python code is designed to tackle that problem. It uses a special library called Dask to process, analyze, and save this massive amount of data very efficiently, even on your personal computer. It's like having a team of assistants working in parallel to crunch those numbers much faster.
 
 Key Features:
@@ -25,3 +26,7 @@ Handles Memory: Dask is smart about memory; it can process data larger than your
 Visualizes Trends: It can still create normal charts (like a sales trend line) from the processed data, even though the original data was massive.
 Saves Efficiently: It shows how to save your processed data into a special, fast-to-read format called Parquet, which is great for big datasets.
 Explains Big Data Concepts: The comments and print statements in the code help you understand why Dask is useful for big data and how it works under the hood.
+
+**output**
+
+![Image](https://github.com/user-attachments/assets/c2233049-90f0-4ea0-af85-4c594f2060c9)
